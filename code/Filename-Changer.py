@@ -7,7 +7,7 @@
 import os
 
 # 1) Set the directory w/ files to rename
-dir = "/Users/tom/GitHub/Gotham-Python/Playground"
+dir = " "
 os.chdir(dir)
 
 
