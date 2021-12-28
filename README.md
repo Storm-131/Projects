@@ -2,8 +2,8 @@
 
 ## 🖊 Info
 
-Cheers! 🍻  
-This is a collection of sample projects.
+Cheers! 🍻 👋🏼
+This is a collection of some sample projects.
 
 ---
 
@@ -21,5 +21,3 @@ Use this, for reading the EXIF-Metadata of a foto.
 
 ## 📜 References
 - Name: T. Maus
-
----
