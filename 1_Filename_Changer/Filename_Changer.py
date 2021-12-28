@@ -1,19 +1,19 @@
 # ---------------------------------------------------------*\
-#  * Title: Filename-Changer
-#  * Author: Tom Maus (2021)
+# Title: Filename-Changer
+# Author: TM (2021)
 # ---------------------------------------------------------*/
 #!/usr/bin/env python3
 
 import os
 
 # 1) Set the directory w/ files to rename
-dir = " "
-os.chdir(dir)
+dirname = os.path.dirname(__file__)
+dir = os.path.join(dirname, 'Folder_to_change')
 
+os.chdir(dir)
 
 # 2) Set variable w/ Word to add:
 var = "Fake_"
-
 
 # 3) Apply the changes
 def fileChanger():
