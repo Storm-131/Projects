@@ -2,7 +2,7 @@
 
 ## 🖊 Info
 
-Cheers! 🍻 👋🏼
+Cheers! 🍻 👋🏼   
 This is a collection of some sample projects.
 
 ---
