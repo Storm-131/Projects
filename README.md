@@ -2,20 +2,20 @@
 
 ## 🖊 Info
 
-Cheers! 🍻 👋🏼   
+Cheers! 👋🏼   
 This is a collection of some sample projects.
 
 ---
 
-## 🌵 Manual
+## 🌵 Index
 
-### 1) Filename-Changer
-Use this, for changing the file-names of a bunch of files in a specified folder.
+1. Filename-Changer
+-> Use this, for changing the file-names of a bunch of files in a specified folder.
 
----
+2. Image-Metadata
+-> Use this, for reading the EXIF-Metadata of a foto.
 
-### 2) Image-Metadata
-Use this, for reading the EXIF-Metadata of a foto.
+3. BMI-Calculator
 
 ---
 
