@@ -17,6 +17,8 @@ This is a collection of some sample projects.
 
 3. BMI-Calculator
 
+4. Number-Guessing-Game: Can you beat your machine? 🎮👾
+
 ---
 
 ## 📜 References
