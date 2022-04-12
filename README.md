@@ -19,6 +19,8 @@ This is a collection of some sample projects.
 
 4. Number-Guessing-Game: Can you beat your machine? 🎮👾
 
+5. Pong Game (made with turtle-module) 🏓
+
 ---
 
 ## 📜 References
